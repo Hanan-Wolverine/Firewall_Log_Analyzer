@@ -46,7 +46,7 @@ ABC Tech Firewall Log Analyzer is a Python script designed to analyze firewall l
 
 5. View the generated summary and log information.
 
-Summary Report:
+"Summary Report:
 
 Total Actions:
 ALLOW: 6 entries
@@ -88,7 +88,7 @@ Log Information summary:
 | 2023-03-15 06:32:00 | ALLOW  |   TCP    | 192.168.1.109 |       SSH       |
 | 2023-03-15 06:34:31 | ALLOW  |   TCP    | 192.168.1.111 |       SQL       |
 | 2023-03-15 06:35:27 | BLOCK  |   UDP    | 192.168.1.112 |       SNMP      |
-+---------------------+--------+----------+---------------+-----------------+
++---------------------+--------+----------+---------------+-----------------+"
 
 ## Contributing
 
