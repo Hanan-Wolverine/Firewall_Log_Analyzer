@@ -21,7 +21,7 @@ ABC Tech Firewall Log Analyzer is a Python script designed to analyze firewall l
 1. Clone the repository:
 
     
-    git clone <repository_link>
+    git clone https://github.com/Hanan-Wolverine/Firewall_Log_Analyzer.git
     cd firewall-log-analyzer
   
 
