@@ -37,13 +37,13 @@ ABC Tech Firewall Log Analyzer is a Python script designed to analyze firewall l
 
  
         python firewall_log_analyzer.py   (It will show Summary Report in Same terminal)
-
 				or
+   	python firewall_log_analyzer.py > firewall_log.txt   ( It will show summary report in firewall_log.txt file which will create in same directory)
 	
-	python firewall_log_analyzer.py > firewall_log.txt   ( It will show summary report in firewall_log.txt file which will create in same directory) 
+	 
  
 
-4. View the generated summary and log information.
+5. View the generated summary and log information.
 
 Summary Report:
 
