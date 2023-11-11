@@ -47,49 +47,7 @@ ABC Tech Firewall Log Analyzer is a Python script designed to analyze firewall l
 5. View the generated summary and log information.
 ![Screenshot](https://github.com/Hanan-Wolverine/Firewall_Log_Analyzer/assets/84009927/2f34075f-9ea0-4ff8-947c-c5d93ea5deb4)
 
-"Summary Report:
 
-Total Actions:
-ALLOW: 6 entries
-BLOCK: 5 entries
-
-Protocol Distribution:
-TCP: 8 entries
-UDP: 3 entries
-ICMP: 0 entries
-
-Source IP Analysis:
-Source IP: 192.168.1.105, Count: 5
-Source IP: 192.168.1.106, Count: 1
-Source IP: 192.168.1.107, Count: 1
-Source IP: 192.168.1.108, Count: 1
-Source IP: 192.168.1.109, Count: 1
-Source IP: 192.168.1.111, Count: 1
-Source IP: 192.168.1.112, Count: 1
-
-Threat Categories:
-SSH: 2 entries
-DNS: 1 entries
-SQL: 2 entries
-SNMP: 1 entries
-Other: 0 entries
-
-Log Information summary:
-+---------------------+--------+----------+---------------+-----------------+
-|         Date        | Action | Protocol |   Source IP   | Threat Category |
-+---------------------+--------+----------+---------------+-----------------+
-| 2023-03-15 06:25:31 | ALLOW  |   TCP    | 192.168.1.105 |      Other      |
-| 2023-03-15 06:26:45 | BLOCK  |   UDP    | 192.168.1.105 |      Other      |
-| 2023-03-15 06:27:02 | ALLOW  |   TCP    | 192.168.1.105 |      Other      |
-| 2023-03-15 06:27:58 | BLOCK  |   TCP    | 192.168.1.105 |       SSH       |
-| 2023-03-15 06:29:10 | ALLOW  |   UDP    | 192.168.1.105 |       DNS       |
-| 2023-03-15 06:30:05 | BLOCK  |   TCP    | 192.168.1.106 |      Other      |
-| 2023-03-15 06:30:42 | ALLOW  |   TCP    | 192.168.1.107 |      Other      |
-| 2023-03-15 06:31:19 | BLOCK  |   TCP    | 192.168.1.108 |       SQL       |
-| 2023-03-15 06:32:00 | ALLOW  |   TCP    | 192.168.1.109 |       SSH       |
-| 2023-03-15 06:34:31 | ALLOW  |   TCP    | 192.168.1.111 |       SQL       |
-| 2023-03-15 06:35:27 | BLOCK  |   UDP    | 192.168.1.112 |       SNMP      |
-+---------------------+--------+----------+---------------+-----------------+"
 
 ## Contributing
 
