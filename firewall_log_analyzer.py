@@ -1,7 +1,7 @@
 import re
 from prettytable import PrettyTable
 
-# Define the log file path
+# Define the log file path here
 log_file_path = "firewall_log.txt"
 
 # Define regular expression for log parsing
